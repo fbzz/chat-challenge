@@ -1,0 +1,43 @@
+
+@import '../../styles/animations.scss';
+
+.from-me {
+    width: 60%;
+    float: left;
+.fill {
+    color:white; 
+    max-width: 100%;
+    position: relative;
+	background:#0B93F6;
+    align-self: flex-end;
+    padding-bottom: 1rem;
+    word-break: break-all;
+    float: left;
+    border-radius: 16px 14px;
+    margin-bottom: 1rem;
+}
+}
+
+.from-they {
+    width: 60%;
+    float: right;
+    .user {
+        align-self: flex-end;float: right;
+    }
+.fill {
+    margin-top: 30px;
+    color:white; 
+    max-width: 100%;
+    position: relative;
+	background:#0B93F6;
+    align-self: flex-end;
+    padding-bottom: 1rem;
+    word-break: break-all;
+    float: right;
+    border-radius: 16px 14px;
+    margin-bottom: 1rem;
+}
+}
+.message-padding {
+    padding: 10px;
+}
