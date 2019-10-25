@@ -14,26 +14,26 @@ On localhost:3000 you will have the React application and on localhost:3001 the 
 ### `Comments`
 
 Basically I did not have much time because of my job, so you guys are going to see some magic numbers hardcoded they should be in a future refactor Enums. Sorry for that.
+&nbsp;
+Implemented Items: &nbsp;
+:white_check_mark: Chat page &nbsp;
+:white_check_mark: Settings page &nbsp
+:white_check_mark: Responsive design (Can be better) &nbsp
+:white_check_mark: Socket IO &nbsp
+:white_check_mark: CTRL+ENTER to send messages &nbsp
+:white_check_mark: Type of clock display &nbsp
+:white_check_mark: When in another tab you can see the count of messages on the chat tab. &nbsp
+:white_check_mark: Settings on localstorage &nbsp
+ &nbsp
+ &nbsp
+TODO: &nbsp
+:x: Internationalization &nbsp
+:x: Emoji Support &nbsp
+:x: Preview of media. &nbsp
+:x: JSDOC with quality &nbsp
+:x: Unit tests &nbsp
+:x: Large refactor with more typescript and redux standards maybe Redux Saga &nbsp
 
-Implemented Items:
-:white_check_mark: Chat page
-:white_check_mark: Settings page
-:white_check_mark: Responsive design (Can be better)
-:white_check_mark: Socket IO
-:white_check_mark: CTRL+ENTER to send messages
-:white_check_mark: Type of clock display
-:white_check_mark: When in another tab you can see the count of messages on the chat tab.
-:white_check_mark: Settings on localstorage
-
-
-TODO:
-:x: Internationalization
-:x: Emoji Support
-:x: Preview of media.
-:x: JSDOC with quality
-:x: Unit tests
-:x: Large refactor with more typescript and redux standards maybe Redux Saga
-
-`Thank you guys for the oportunity`
+`Thank you guys for the oportunity` &nbsp
 
 
